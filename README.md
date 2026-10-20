@@ -1,4 +1,4 @@
-# 🚀 AI Review Management Automation System
+# 🚀 AI Review Management Automation
 
 An AI-powered Google Review Management System built with **n8n, OpenAI, Telegram, and Google Sheets** that automatically monitors customer reviews, generates intelligent responses, and enables human approval for negative reviews.
 
